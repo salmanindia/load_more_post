@@ -69,6 +69,5 @@ $(document).ready(function() {
 <button class="load_more" id="load_more_button">load More</button>
 <div class="animation_image" style="display:none;"><img src="ajax-loader.gif"> Loading...</div>
 </div>
-
 </body>
 </html>
